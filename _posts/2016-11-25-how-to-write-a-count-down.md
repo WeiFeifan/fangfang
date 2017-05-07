@@ -11,7 +11,7 @@ author: HyG
 
 关于写倒计时大家可能都都比较熟悉，使用 setTimeout 或 setInterval 就可以搞定。几秒钟或者几分钟的倒计时这样写没有问题，但是如果是长时间的倒计时，这样写就会不准确。如果用户修改了他的设备时间，这样的倒计时就没有意义了。今天就说说写一个精确的倒计时的方法。
 
-![](https://img.alicdn.com/tfs/TB18QnlOpXXXXcVXpXXXXXXXXXX-388-256.png)
+![](http://wx3.sinaimg.cn/bmiddle/006AfQy9gy1fdhqfbt2t3j318g0qotdf.jpg)
 
 
 
