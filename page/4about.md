@@ -9,12 +9,6 @@ type: page
 * content
 {:toc}
 
----
-layout: page
-title: About
-permalink: /about/
-icon: glyphicon-heart
----
 
 ---
 ### 联系我
